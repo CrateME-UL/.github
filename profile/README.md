@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- [link to the wiki](https://github.com/CrateME-UL/.github/wiki)
+- **[link to wiki](https://github.com/CrateME-UL/.github/wiki)**
+- **[link to jira board](https://inventairemonequilibreulaval.atlassian.net/jira/software/projects/INV/boards/1)**
 
 
 <!--
