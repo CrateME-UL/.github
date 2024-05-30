@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- [link to the wiki](./.github.wiki/Home.md)
+
+
 <!--
 
 **Here are some ideas to get you started:**
