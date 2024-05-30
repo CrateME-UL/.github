@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- [link to the wiki](./.github.wiki/Home.md)
+- [link to the wiki](https://github.com/CrateME-UL/.github/wiki)
 
 
 <!--
